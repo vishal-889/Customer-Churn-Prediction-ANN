@@ -3,6 +3,7 @@ Introduction
 Hello, in this project we will briefly discuss about the customer churn prediction model that we will build using the artificial neural network.
 
 Problem Statement
+
 What is customer churn?
 So, customer churn is simply the rate at which customers leave doing business with an entity. Simply put, churn prediction involves determining the possibility of customers stopping doing business with an entity. In other words, if a consumer has purchased a subscription to a particular service, we must determine the likelihood that the customer would leave or cancel the membership.
 
